@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm a Computer Science Engineering Student, currently in my Third Year of University in BITS Pilani, Dubai<br>I'm Interested in the field of Cybersecurity<br>I love graphic designing and also very interested in creative web development<br>I'm the Creative head of the Reflexions club and the Creative Manger in ACM-W
+I'm a Computer Science Engineering Student, currently in my Third Year of University in BITS Pilani, Dubai<br>I'm Interested in the field of Cybersecurity<br>I love graphic designing and also very interested in creative web development<br>I'm the Chair of ACM-W BPDC
 
 
 ## 🌐 Socials:
