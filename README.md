@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm a Computer Science Engineering Student, currently in my Fourth Year of University in BITS Pilani, Dubai<br>I'm Interested in the field of Cybersecurity and AI, I'm also getting into the field on integrating hardware into my projects to solve real world problems! <br>I love graphic designing and also very interested in creative web development and Embedded AI <br>I'm the current Chair of ACM-W BPDC, where I try to create an environment to support and encourage women in tech !
+I'm a Computer Science Engineering Student, currently in my Fourth Year of University in BITS Pilani, Dubai<br>I'm Interested in the field of Cybersecurity and AI/ML , I'm also getting into the field of integrating hardware into my projects to solve real world problems! <br>I love graphic designing and also very interested in creative web development and Embedded AI <br>I'm the current Chair of ACM-W BPDC, where I try to create an environment to support and encourage women in tech !
 
 
 ## 🌐 Socials:
